@@ -85,6 +85,7 @@ namespace Puzzle8
         {
             List<Node> priority = new List<Node>();
             Node root = new Node(startMat,x,y,CalculateCost(startMat,finalMat),0,0);
+            priority.Add(root);
             sw.Start();
             GenerateChildren(x, y, priority, finalMat, root, sw);
         }
