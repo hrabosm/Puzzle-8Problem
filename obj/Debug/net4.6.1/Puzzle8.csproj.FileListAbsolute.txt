@@ -1,0 +1,7 @@
+C:\Users\hrabo\Desktop\Puzzle8\bin\Debug\net4.6.1\Puzzle8.exe
+C:\Users\hrabo\Desktop\Puzzle8\bin\Debug\net4.6.1\Puzzle8.pdb
+C:\Users\hrabo\Desktop\Puzzle8\obj\Debug\net4.6.1\Puzzle8.csproj.CoreCompileInputs.cache
+C:\Users\hrabo\Desktop\Puzzle8\obj\Debug\net4.6.1\Puzzle8.AssemblyInfoInputs.cache
+C:\Users\hrabo\Desktop\Puzzle8\obj\Debug\net4.6.1\Puzzle8.AssemblyInfo.cs
+C:\Users\hrabo\Desktop\Puzzle8\obj\Debug\net4.6.1\Puzzle8.exe
+C:\Users\hrabo\Desktop\Puzzle8\obj\Debug\net4.6.1\Puzzle8.pdb

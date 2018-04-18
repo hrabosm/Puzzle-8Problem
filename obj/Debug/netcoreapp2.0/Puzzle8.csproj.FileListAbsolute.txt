@@ -1,0 +1,10 @@
+C:\Users\hrabo\Desktop\Puzzle8\bin\Debug\netcoreapp2.0\Puzzle8.deps.json
+C:\Users\hrabo\Desktop\Puzzle8\bin\Debug\netcoreapp2.0\Puzzle8.runtimeconfig.json
+C:\Users\hrabo\Desktop\Puzzle8\bin\Debug\netcoreapp2.0\Puzzle8.runtimeconfig.dev.json
+C:\Users\hrabo\Desktop\Puzzle8\bin\Debug\netcoreapp2.0\Puzzle8.dll
+C:\Users\hrabo\Desktop\Puzzle8\bin\Debug\netcoreapp2.0\Puzzle8.pdb
+C:\Users\hrabo\Desktop\Puzzle8\obj\Debug\netcoreapp2.0\Puzzle8.csproj.CoreCompileInputs.cache
+C:\Users\hrabo\Desktop\Puzzle8\obj\Debug\netcoreapp2.0\Puzzle8.AssemblyInfoInputs.cache
+C:\Users\hrabo\Desktop\Puzzle8\obj\Debug\netcoreapp2.0\Puzzle8.AssemblyInfo.cs
+C:\Users\hrabo\Desktop\Puzzle8\obj\Debug\netcoreapp2.0\Puzzle8.dll
+C:\Users\hrabo\Desktop\Puzzle8\obj\Debug\netcoreapp2.0\Puzzle8.pdb
